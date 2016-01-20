@@ -4,6 +4,8 @@ Unofficial stickersheet for Inkscape based on the [official Material Design reso
 
 The original bitmap that is being vectorized is in the [original.png](original.png) file. You can make it visible in Inkscape by enabling layer "Original".
 
+![screenshot](docs/img/screenshot.png)
+
 ## Shadows
 
 Thanks to [ShiningWingPony](http://shiningwingpony.deviantart.com/)'s filters you can easily add material shadows:
@@ -18,7 +20,9 @@ You can see this in use on the Floating Action Button (FAB).
 
 ## Colors and swatches
 
-You can use swatch for pre-defined colors like "primary_text", "secondary_text" etc. You can show the swatch by clicking small arrow in bottom right corner of Inkscape and selecting Auto.
+You can use swatch for pre-defined colors like "primary_text", "secondary_text" etc. You can show the swatch by clicking small arrow in bottom right corner of Inkscape and selecting *Auto*.
+
+![palette-arrow](docs/img/palette.png)
 
 If you want more Material Colors, you can install a palette from [ksoichiro](https://github.com/ksoichiro/material-design-colors) or [KiSSFLOW](https://github.com/KiSSFLOW/gimp-material-design-color-palette).
 
@@ -26,9 +30,15 @@ If you want more Material Colors, you can install a palette from [ksoichiro](htt
 
 The Roboto font must be installed. Inkscape doesn't show the *Regular* variant of the font, but allows you to **type it directly to the font type dropdown**.
 
+![typeface](docs/img/fontface.png)
+
+![typography](docs/img/typography.png)
+
 ## Material Icons
 
 The most comfortable way of browsing and inserting material icons is to use the new *Symbols* dialog introduced in Inkscape 0.91. You can download the appropriate icon set from [Xaviju/inkscape-open-symbols](https://github.com/Xaviju/inkscape-open-symbols).
+
+![icons-symbols](docs/img/icons.png)
 
 ## Precision
 
@@ -37,6 +47,10 @@ The whole drawing should be pixel-aligned to prevent blurry edges. You can achie
 **Font sizes** are scaled down from the official values by factor **0.8**.
 
 Inserted **material icons** from [Xaviju/inkscape-open-symbols](https://github.com/Xaviju/inkscape-open-symbols) are scaled down by factor **0.5**.
+
+![pixel-aligned](docs/img/pixel-perfect.png)
+
+![text-align](docs/img/text-align.png)
 
 ## License
 
