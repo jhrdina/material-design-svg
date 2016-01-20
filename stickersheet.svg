@@ -108,14 +108,6 @@
          id="stop27224" />
     </linearGradient>
     <linearGradient
-       id="card_icon"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#757575;stop-opacity:1;"
-         offset="0"
-         id="stop26888" />
-    </linearGradient>
-    <linearGradient
        id="card_dark_overlay"
        osb:paint="solid">
       <stop
@@ -132,16 +124,14 @@
          id="stop4485" />
     </linearGradient>
     <linearGradient
-       id="card_action_button_dark"
-       osb:paint="solid">
+       id="card_action_button_dark">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop4439" />
     </linearGradient>
     <linearGradient
-       id="card_text_dark"
-       osb:paint="solid">
+       id="card_text_dark">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -149,7 +139,6 @@
     </linearGradient>
     <linearGradient
        id="section_head"
-       osb:paint="solid"
        gradientTransform="matrix(1.0525769,0,0,1.0525769,-2379.1889,4319.712)">
       <stop
          style="stop-color:#4d4d4d;stop-opacity:1;"
@@ -166,7 +155,6 @@
     </linearGradient>
     <linearGradient
        id="card_subhead"
-       osb:paint="solid"
        gradientTransform="matrix(1,0,0,0.91549322,0,-249.51792)">
       <stop
          style="stop-color:#777777;stop-opacity:1;"
@@ -193,7 +181,6 @@
     </linearGradient>
     <linearGradient
        id="card_text"
-       osb:paint="solid"
        gradientTransform="translate(2,1.9996001)">
       <stop
          style="stop-color:#212121;stop-opacity:1;"
@@ -201,8 +188,7 @@
          id="stop4288" />
     </linearGradient>
     <linearGradient
-       id="action_button"
-       osb:paint="solid">
+       id="action_button">
       <stop
          style="stop-color:#4d4d4d;stop-opacity:1;"
          offset="0"
@@ -635,24 +621,6 @@
        y2="4.6000247" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#card_icon"
-       id="linearGradient26894"
-       gradientUnits="userSpaceOnUse"
-       x1="10"
-       y1="24"
-       x2="38"
-       y2="24" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#card_icon"
-       id="linearGradient26900"
-       x1="6"
-       y1="25"
-       x2="42"
-       y2="25"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#white"
        id="linearGradient26928"
        gradientTransform="matrix(0.99710145,0,0,1.2215886,-83.014493,892.96107)"
@@ -688,24 +656,6 @@
        id="linearGradient27153"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99710145,0,0,1.2215886,-259.01447,1380.9609)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#card_icon"
-       id="linearGradient27171"
-       gradientUnits="userSpaceOnUse"
-       x1="10"
-       y1="24"
-       x2="38"
-       y2="24" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#card_icon"
-       id="linearGradient27173"
-       gradientUnits="userSpaceOnUse"
-       x1="6"
-       y1="25"
-       x2="42"
-       y2="25" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient27220"
@@ -1783,9 +1733,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1943.885"
-     inkscape:cy="5024.7907"
+     inkscape:zoom="0.5"
+     inkscape:cx="2993.0635"
+     inkscape:cy="5103.9768"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1827,15 +1777,15 @@
      style="display:none"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/jan/Počítače/Software/Programování/Material Design/original.png"
+       sodipodi:absref="/home/jan/AAProjekty/material-design-svg/material-design-svg/original.png"
        xlink:href="original.png"
-       width="5440"
-       height="6474"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image25922"
+       y="-5421.6377"
        x="0"
-       y="-5421.6377" />
+       id="image25922"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="6474"
+       width="5440" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2188,33 +2138,42 @@
          width="344"
          id="rect26926"
          style="opacity:1;fill:url(#linearGradient26928);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4284)" />
-      <use
-         transform="matrix(0.5,0,0,0.5,2952,-4264.6378)"
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         xlink:href="#symbol13037"
-         style="fill:url(#card_icon);stroke:#000000;stroke-width:2"
-         id="use25235" />
-      <use
-         transform="matrix(-0.5,0,0,0.5,3072,-4267.6378)"
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         xlink:href="#symbol22950"
-         style="fill:url(#linearGradient26900);fill-opacity:1;stroke:#000000;stroke-width:2"
-         id="use26854" />
-      <use
+      <g
+         id="use25235"
+         style="fill:url(#text_secondary);stroke:#000000;stroke-width:2"
+         transform="matrix(0.5,0,0,0.5,2952,-4264.6378)">
+        <title
+           id="title24084">Favorite</title>
+        <path
+           id="path24086"
+           style="stroke:none"
+           d="M 24,42.7 21.1,40.07 C 10.8,30.72 4,24.55 4,17 4,10.83 8.83,6 15,6 18.48,6 21.82,7.62 24,10.17 26.18,7.62 29.52,6 33,6 c 6.17,0 11,4.83 11,11 0,7.55 -6.8,13.72 -17.1,23.07 L 24,42.7 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="use26854"
+         style="fill:url(#text_secondary);fill-opacity:1;stroke:#000000;stroke-width:2"
+         transform="matrix(-0.5,0,0,0.5,3072,-4267.6378)">
+        <title
+           id="title24072">Reply</title>
+        <path
+           id="path24074"
+           style="stroke:none"
+           d="M 20,18 20,10 6,24 20,38 20,29.8 C 30,29.8 37,33 42,40 40,30 34,20 20,18 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
          id="use26868"
-         style="fill:url(#linearGradient26894);fill-opacity:1;stroke:#000000;stroke-width:1.99999595"
-         xlink:href="#symbol12929"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="matrix(0.50000102,0,0,0.50000102,3000,-4266.6378)" />
+         style="fill:url(#text_secondary);fill-opacity:1;stroke:#000000;stroke-width:1.99999595"
+         transform="matrix(0.50000102,0,0,0.50000102,3000,-4266.6378)">
+        <title
+           id="title24078">Bookmark</title>
+        <path
+           id="path24080"
+           style="stroke:none"
+           d="M 34,6 14,6 c -2.21,0 -3.98,1.79 -3.98,4 L 10,42 24,36 38,42 38,10 C 38,7.79 36.21,6 34,6 Z"
+           inkscape:connector-curvature="0" />
+      </g>
       <path
          sodipodi:nodetypes="cccsscc"
          inkscape:connector-curvature="0"
@@ -2233,33 +2192,42 @@
          y="-3953.6377"
          rx="2"
          ry="2" />
-      <use
+      <g
          id="use27145"
-         style="fill:url(#card_icon);stroke:#000000;stroke-width:2"
-         xlink:href="#symbol13037"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="matrix(0.5,0,0,0.5,2776,-3776.6379)" />
-      <use
+         style="fill:url(#text_secondary);stroke:#000000;stroke-width:2"
+         transform="matrix(0.5,0,0,0.5,2776,-3776.6379)">
+        <title
+           id="title24066">Favorite</title>
+        <path
+           id="path24068"
+           style="stroke:none"
+           d="M 24,42.7 21.1,40.07 C 10.8,30.72 4,24.55 4,17 4,10.83 8.83,6 15,6 18.48,6 21.82,7.62 24,10.17 26.18,7.62 29.52,6 33,6 c 6.17,0 11,4.83 11,11 0,7.55 -6.8,13.72 -17.1,23.07 L 24,42.7 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
          id="use27147"
-         style="fill:url(#linearGradient27173);fill-opacity:1;stroke:#000000;stroke-width:2"
-         xlink:href="#symbol22950"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="matrix(-0.5,0,0,0.5,2896,-3779.6379)" />
-      <use
-         transform="matrix(0.50000102,0,0,0.50000102,2824,-3778.6379)"
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         xlink:href="#symbol12929"
-         style="fill:url(#linearGradient27171);fill-opacity:1;stroke:#000000;stroke-width:1.99999595"
-         id="use27149" />
+         style="fill:url(#text_secondary);fill-opacity:1;stroke:#000000;stroke-width:2"
+         transform="matrix(-0.5,0,0,0.5,2896,-3779.6379)">
+        <title
+           id="title24054">Reply</title>
+        <path
+           id="path24056"
+           style="stroke:none"
+           d="M 20,18 20,10 6,24 20,38 20,29.8 C 30,29.8 37,33 42,40 40,30 34,20 20,18 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="use27149"
+         style="fill:url(#text_secondary);fill-opacity:1;stroke:#000000;stroke-width:1.99999595"
+         transform="matrix(0.50000102,0,0,0.50000102,2824,-3778.6379)">
+        <title
+           id="title24060">Bookmark</title>
+        <path
+           id="path24062"
+           style="stroke:none"
+           d="M 34,6 14,6 c -2.21,0 -3.98,1.79 -3.98,4 L 10,42 24,36 38,42 38,10 C 38,7.79 36.21,6 34,6 Z"
+           inkscape:connector-curvature="0" />
+      </g>
       <path
          sodipodi:nodetypes="cccsscc"
          inkscape:connector-curvature="0"
@@ -3081,15 +3049,18 @@
          cx="3431"
          id="path25536"
          style="opacity:1;fill:url(#linearGradient25881);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <use
-         transform="matrix(0.5,0,0,0.5,3419,-4446.6378)"
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         xlink:href="#symbol23084"
+      <g
+         id="use25867"
          style="fill:url(#dark_text_primary);stroke:#000000"
-         id="use25867" />
+         transform="matrix(0.5,0,0,0.5,3419,-4446.6378)">
+        <title
+           id="title24096">Add</title>
+        <path
+           id="path24098"
+           style="stroke:none"
+           d="m 38,26 -12,0 0,12 -4,0 0,-12 -12,0 0,-4 12,0 0,-12 4,0 0,12 12,0 0,4 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <g
        style="filter:url(#filter4375)"
@@ -3108,15 +3079,18 @@
          cx="3431"
          cy="-4434.6377"
          r="28" />
-      <use
+      <g
          id="use25906"
          style="fill:url(#dark_text_primary);stroke:#000000"
-         xlink:href="#symbol23084"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="matrix(0.5,0,0,0.5,3419,-4446.6378)" />
+         transform="matrix(0.5,0,0,0.5,3419,-4446.6378)">
+        <title
+           id="title24090">Add</title>
+        <path
+           id="path24092"
+           style="stroke:none"
+           d="m 38,26 -12,0 0,12 -4,0 0,-12 -12,0 0,-4 12,0 0,-12 4,0 0,12 12,0 0,4 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>
