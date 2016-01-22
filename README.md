@@ -20,11 +20,9 @@ You can see this in use on the Floating Action Button (FAB).
 
 ## Colors and swatches
 
-You can use swatch for pre-defined colors like "primary_text", "secondary_text" etc. You can show the swatch by clicking small arrow in bottom right corner of Inkscape and selecting *Auto*.
+Swatches are not used (anymore) as it caused some issues with copying objects. You can at least use the [enclosed cheatsheet](colors.md) to speed up colors selection.
 
-![palette-arrow](docs/img/palette.png)
-
-If you want more Material Colors, you can install a palette from [ksoichiro](https://github.com/ksoichiro/material-design-colors) or [KiSSFLOW](https://github.com/KiSSFLOW/gimp-material-design-color-palette).
+You can also install Material Colors palette from [ksoichiro](https://github.com/ksoichiro/material-design-colors) or [KiSSFLOW](https://github.com/KiSSFLOW/gimp-material-design-color-palette).
 
 ## Fonts
 
