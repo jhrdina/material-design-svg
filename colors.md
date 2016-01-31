@@ -10,6 +10,8 @@ RGBA     | Color name
 eeeeeeff | Background (Google Grey 200)
 fafafaff | Almost white background
 0000001e | Thin line
+0000000a | Toolbar separator
+00000089 | Tooltip background
 
 ## Dark Theme
 
@@ -19,6 +21,7 @@ ffffffff | Primary
 ffffffb3 | Secondary
 ffffff4d | Disabled
 212121ff | Background (Google Grey 900)
+ffffff1f | Thin line
 
 ## Material Colors
 
