@@ -313,9 +313,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="2750.3018"
-     inkscape:cy="5093.1708"
+     inkscape:zoom="0.5"
+     inkscape:cx="3268.4367"
+     inkscape:cy="4461.5595"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -2502,207 +2502,228 @@
        width="360"
        id="rect13663-4"
        style="display:inline;opacity:1;fill:#303030;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       transform="translate(3360.832,-2703.0104)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot27500-2"
-       xml:space="preserve"><flowRegion
-         id="flowRegion27502-38"><rect
-           y="-8.4147177"
-           x="-0.83251446"
-           height="58.312714"
-           width="282.099"
-           id="rect27504-0"
-           style="fill:#000000;fill-opacity:0.87058824" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.87058824"
-         id="flowPara27506-7">Input tex</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4880"
-       width="328"
-       height="1.9999"
-       x="3360"
-       y="-2678.6377" />
-    <rect
-       style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4882"
-       width="1"
-       height="20"
-       x="3423"
-       y="-2705.6377" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4884"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(3360.832,-2767.0104)"><flowRegion
-         id="flowRegion4886"><rect
-           style="fill:#000000;fill-opacity:0.38039216"
-           id="rect4888"
-           width="282.099"
-           height="58.312714"
-           x="-0.83251446"
-           y="-8.4147177" /></flowRegion><flowPara
-         id="flowPara4890"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216">Hint text</flowPara></flowRoot>    <rect
-       y="-2742.6377"
-       x="3360"
-       height="1.9999"
-       width="328"
-       id="rect4892"
-       style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="-2769.6377"
-       x="3360"
-       height="20"
-       width="1"
-       id="rect4894"
-       style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       transform="translate(3360.832,-2831.0104)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4896"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4898"><rect
-           y="-8.4147177"
-           x="-0.83251446"
-           height="58.312714"
-           width="282.099"
-           id="rect4900"
-           style="fill:#000000;fill-opacity:0.38039216" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216"
-         id="flowPara4902">Hint text</flowPara></flowRoot>    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.11764706;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect13518-3"
-       width="328"
-       height="0.99990004"
-       x="3360"
-       y="-2806.6377" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4923"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(3360.832,-2895.0104)"><flowRegion
-         id="flowRegion4925"><rect
-           style="fill:#000000;fill-opacity:0.38039216"
-           id="rect4927"
-           width="282.099"
-           height="58.312714"
-           x="-0.83251446"
-           y="-8.4147177" /></flowRegion><flowPara
-         id="flowPara4929"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216">Hint text</flowPara></flowRoot>    <rect
-       y="-2870.6377"
-       x="3360"
-       height="0.99990004"
-       width="328"
-       id="rect4931"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.11764706;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       transform="translate(3360.832,-2639.0104)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4933"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4935"><rect
-           y="-8.4147177"
-           x="-0.83251446"
-           height="58.312714"
-           width="282.099"
-           id="rect4937"
-           style="fill:#000000;fill-opacity:0.87058824" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.87058824"
-         id="flowPara4939">Input text</flowPara></flowRoot>    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.11764706;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4941"
-       width="328"
-       height="0.99990004"
-       x="3360"
-       y="-2614.6377" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4943"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(3360.832,-2575.0105)"><flowRegion
-         id="flowRegion4945"><rect
-           style="fill:#000000;fill-opacity:0.87058824"
-           id="rect4947"
-           width="282.099"
-           height="58.312714"
-           x="-0.83251446"
-           y="-8.4147177" /></flowRegion><flowPara
-         id="flowPara4949"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.87058824">Input text</flowPara></flowRoot>    <rect
-       y="-2550.6377"
-       x="3360"
-       height="1.9999"
-       width="328"
-       id="rect4951"
-       style="opacity:1;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       transform="translate(3360.832,-2537.5637)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot27622-5"
-       xml:space="preserve"><flowRegion
-         id="flowRegion27624-1"><rect
-           y="-8.4147177"
-           x="-0.83251446"
-           height="58.312714"
-           width="282.099"
-           id="rect27626-37"
-           style="fill:#f44336" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f44336;fill-opacity:1"
-         id="flowPara27628-2">Username or Password is incorrect.</flowPara></flowRoot>    <g
-       id="g5001"
-       transform="matrix(1.0392305,0,0,1.0392305,-144.32892,99.081871)">
-      <path
-         inkscape:transform-center-x="3.3865015e-05"
-         inkscape:transform-center-y="-2.4998694"
-         d="m 3687.6603,-2525.6377 -17.3206,0 8.6603,-15 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="0.52359878"
-         sodipodi:r2="5"
-         sodipodi:r1="10"
-         sodipodi:cy="-2530.6377"
-         sodipodi:cx="3679"
-         sodipodi:sides="3"
-         id="path4993"
-         style="opacity:1;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:type="star" />
-      <rect
-         y="-2534.6377"
-         x="3678"
-         height="4"
-         width="2"
-         id="rect4995"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4997"
-         width="2"
+    <g
+       id="g6176">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot27500-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(3360.832,-2703.0104)"><flowRegion
+           id="flowRegion27502-38"><rect
+             style="fill:#000000;fill-opacity:0.87058824"
+             id="rect27504-0"
+             width="282.099"
+             height="58.312714"
+             x="-0.83251446"
+             y="-8.4147177" /></flowRegion><flowPara
+           id="flowPara27506-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.87058824">Input tex</flowPara></flowRoot>      <rect
+         y="-2678.6377"
+         x="3360"
          height="1.9999"
-         x="3678"
-         y="-2529.6377" />
+         width="328"
+         id="rect4880"
+         style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-2705.6377"
+         x="3423"
+         height="20"
+         width="1"
+         id="rect4882"
+         style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5016"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(3360.832,-2487.0104)"><flowRegion
-         id="flowRegion5018"><rect
-           style="fill:#000000;fill-opacity:0.38039216"
-           id="rect5020"
-           width="282.099"
-           height="58.312714"
-           x="-0.83251446"
-           y="-8.4147177" /></flowRegion><flowPara
-         id="flowPara5022"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216">Disabled text</flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:0.22352941"
-       d="m 3360,-2462.1378 328.0005,0"
-       id="path5026"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+    <g
+       id="g6168">
+      <flowRoot
+         transform="translate(3360.832,-2767.0104)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4884"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4886"><rect
+             y="-8.4147177"
+             x="-0.83251446"
+             height="58.312714"
+             width="282.099"
+             id="rect4888"
+             style="fill:#000000;fill-opacity:0.38039216" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216"
+           id="flowPara4890">Hint text</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4892"
+         width="328"
+         height="1.9999"
+         x="3360"
+         y="-2742.6377" />
+      <rect
+         style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4894"
+         width="1"
+         height="20"
+         x="3360"
+         y="-2769.6377" />
+    </g>
+    <g
+       id="g6161">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(3360.832,-2831.0104)"><flowRegion
+           id="flowRegion4898"><rect
+             style="fill:#000000;fill-opacity:0.38039216"
+             id="rect4900"
+             width="282.099"
+             height="58.312714"
+             x="-0.83251446"
+             y="-8.4147177" /></flowRegion><flowPara
+           id="flowPara4902"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216">Hint text</flowPara></flowRoot>      <rect
+         y="-2806.6377"
+         x="3360"
+         height="0.99990004"
+         width="328"
+         id="rect13518-3"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.11764706;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g6154">
+      <flowRoot
+         transform="translate(3360.832,-2895.0104)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4923"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4925"><rect
+             y="-8.4147177"
+             x="-0.83251446"
+             height="58.312714"
+             width="282.099"
+             id="rect4927"
+             style="fill:#000000;fill-opacity:0.38039216" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216"
+           id="flowPara4929">Hint text</flowPara></flowRoot>      <rect
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.11764706;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4931"
+         width="328"
+         height="0.99990004"
+         x="3360"
+         y="-2870.6377" />
+    </g>
+    <g
+       id="g6184">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(3360.832,-2639.0104)"><flowRegion
+           id="flowRegion4935"><rect
+             style="fill:#000000;fill-opacity:0.87058824"
+             id="rect4937"
+             width="282.099"
+             height="58.312714"
+             x="-0.83251446"
+             y="-8.4147177" /></flowRegion><flowPara
+           id="flowPara4939"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.87058824">Input text</flowPara></flowRoot>      <rect
+         y="-2614.6377"
+         x="3360"
+         height="0.99990004"
+         width="328"
+         id="rect4941"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.11764706;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g6191">
+      <flowRoot
+         transform="translate(3360.832,-2575.0105)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4943"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4945"><rect
+             y="-8.4147177"
+             x="-0.83251446"
+             height="58.312714"
+             width="282.099"
+             id="rect4947"
+             style="fill:#000000;fill-opacity:0.87058824" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.87058824"
+           id="flowPara4949">Input text</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4951"
+         width="328"
+         height="1.9999"
+         x="3360"
+         y="-2550.6377" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot27622-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(3360.832,-2537.5637)"><flowRegion
+           id="flowRegion27624-1"><rect
+             style="fill:#f44336"
+             id="rect27626-37"
+             width="282.099"
+             height="58.312714"
+             x="-0.83251446"
+             y="-8.4147177" /></flowRegion><flowPara
+           id="flowPara27628-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f44336;fill-opacity:1">Username or Password is incorrect.</flowPara></flowRoot>      <g
+         transform="matrix(1.0392305,0,0,1.0392305,-144.32892,99.081871)"
+         id="g5001">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4993"
+           sodipodi:sides="3"
+           sodipodi:cx="3679"
+           sodipodi:cy="-2530.6377"
+           sodipodi:r1="10"
+           sodipodi:r2="5"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 3687.6603,-2525.6377 -17.3206,0 8.6603,-15 z"
+           inkscape:transform-center-y="-2.4998694"
+           inkscape:transform-center-x="3.3865015e-05" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4995"
+           width="2"
+           height="4"
+           x="3678"
+           y="-2534.6377" />
+        <rect
+           y="-2529.6377"
+           x="3678"
+           height="1.9999"
+           width="2"
+           id="rect4997"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g6206">
+      <flowRoot
+         transform="translate(3360.832,-2487.0104)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.38039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot5016"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5018"><rect
+             y="-8.4147177"
+             x="-0.83251446"
+             height="58.312714"
+             width="282.099"
+             id="rect5020"
+             style="fill:#000000;fill-opacity:0.38039216" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:172.00000286%;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:0.38039216"
+           id="flowPara5022">Disabled text</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5026"
+         d="m 3360,-2462.1378 328.0005,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:0.22352941" />
+    </g>
     <flowRoot
        transform="translate(3296.5436,-2997.2238)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80747032px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.87058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
