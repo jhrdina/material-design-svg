@@ -21,7 +21,7 @@ ffffffff | Primary
 ffffffb3 | Secondary
 ffffff4d | Disabled
 212121ff | Background (Google Grey 900)
-ffffff1f | Thin line
+ffffff1e | Thin line
 
 ## Material Colors
 
