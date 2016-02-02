@@ -314,10 +314,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="230.15927"
-     inkscape:cy="5377.5572"
+     inkscape:cx="2538.7605"
+     inkscape:cy="4860.5989"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -365,13 +365,13 @@
     <image
        sodipodi:absref="/home/jan/AAProjekty/material-design-svg/material-design-svg/original.png"
        xlink:href="original.png"
-       y="-5421.6377"
-       x="0"
-       id="image25922"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="5440"
        height="6474"
-       width="5440" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image25922"
+       x="0"
+       y="-5421.6377" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1628,7 +1628,8 @@
         <path
            id="path5588"
            d="M 19,6.41 17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12 Z"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.5411765" />
         <path
            id="path5590"
            d="M 0,0 24,0 24,24 0,24 Z"
