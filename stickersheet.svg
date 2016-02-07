@@ -314,10 +314,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="2538.7605"
-     inkscape:cy="4860.5989"
+     inkscape:cx="1775.4445"
+     inkscape:cy="4783.6113"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -360,18 +360,17 @@
      inkscape:label="Original"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <image
        sodipodi:absref="/home/jan/AAProjekty/material-design-svg/material-design-svg/original.png"
        xlink:href="original.png"
-       width="5440"
-       height="6474"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image25922"
+       y="-5421.6377"
        x="0"
-       y="-5421.6377" />
+       id="image25922"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="6474"
+       width="5440" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1629,7 +1628,7 @@
            id="path5588"
            d="M 19,6.41 17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12 Z"
            inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:0.5411765" />
+           style="fill:#000000;fill-opacity:0.54117647" />
         <path
            id="path5590"
            d="M 0,0 24,0 24,24 0,24 Z"
@@ -4014,13 +4013,11 @@
              y="-3.7940509" /></flowRegion><flowPara
            id="flowPara5584"
            style="font-size:14px;text-align:center;text-anchor:middle;fill:#009688;fill-opacity:1">PRESSED</flowPara></flowRoot>    </g>
-    <rect
+    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.11764706"
+       d="m 1712,-3773.6367 0,279.998 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 9,-9 9,9 0,-279.998 -360,0 z"
        id="rect5334"
-       width="360"
-       height="272"
-       x="1712"
-       y="-3773.6377" />
+       inkscape:connector-curvature="0" />
     <g
        id="g5277">
       <flowRoot
@@ -4149,13 +4146,10 @@
          id="rect5332"
          style="opacity:1;fill:#bdbdbd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.11764706" />
     </g>
-    <rect
-       y="-4029.6377"
-       x="1712"
-       height="223.99989"
-       width="360"
-       id="rect5405"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.11764706" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.11764706"
+       d="M 1712 -4029.6367 L 1712 -3797.6387 L 1721 -3806.6387 L 1730 -3797.6387 L 1739 -3806.6387 L 1748 -3797.6387 L 1757 -3806.6387 L 1766 -3797.6387 L 1775 -3806.6387 L 1784 -3797.6387 L 1793 -3806.6387 L 1802 -3797.6387 L 1811 -3806.6387 L 1820 -3797.6387 L 1829 -3806.6387 L 1838 -3797.6387 L 1847 -3806.6387 L 1856 -3797.6387 L 1865 -3806.6387 L 1874 -3797.6387 L 1883 -3806.6387 L 1892 -3797.6387 L 1901 -3806.6387 L 1910 -3797.6387 L 1919 -3806.6387 L 1928 -3797.6387 L 1937 -3806.6387 L 1946 -3797.6387 L 1955 -3806.6387 L 1964 -3797.6387 L 1973 -3806.6387 L 1982 -3797.6387 L 1991 -3806.6387 L 2000 -3797.6387 L 2009 -3806.6387 L 2018 -3797.6387 L 2027 -3806.6387 L 2036 -3797.6387 L 2045 -3806.6387 L 2054 -3797.6387 L 2063 -3806.6387 L 2072 -3797.6387 L 2072 -4029.6367 L 1712 -4029.6367 z "
+       id="rect5405" />
     <g
        id="g5338"
        transform="translate(-4.9591064e-5,-255.99991)">
@@ -4455,5 +4449,16 @@
            id="rect5377"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:112px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#000000;fill-opacity:1"
-         id="flowPara5379">Display 4</flowPara></flowRoot>  </g>
+         id="flowPara5379">Display 4</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1721,-3422.6378 -9,9 0,16 72,0 72,0 72,0 72,0 72,0 0,-16 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 z"
+       id="path5202"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       d="m 1721,-3365.6378 -9,-9 0,-15 72,0 72,0 72,0 72,0 72,0 0,15 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 -9,9 -9,-9 z"
+       id="path5202-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
 </svg>
