@@ -40,7 +40,7 @@ The most comfortable way of browsing and inserting material icons is to use the 
 
 ## Precision
 
-The whole drawing should be pixel-aligned to prevent blurry edges. You can achieve this by activating pixel grid and snapping. Text boxes are pixel-aligned by its top left corner.
+The whole drawing should be pixel-aligned to prevent blurry edges. You can achieve this by activating pixel grid and snapping. Text boxes are pixel-aligned by its baseline (snapping available from Inkscape 0.91).
 
 **Font sizes** are scaled down from the official values by factor **0.8**.
 
