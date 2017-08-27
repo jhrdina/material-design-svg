@@ -1,5 +1,7 @@
 # Material Design Sticker Sheet for Inkscape (SVG)
 
+***Note:** This stickersheet was made for Inkscape v0.91. In Inkscape 0.92 new text measurement was introduced and therefore makes all texts in this file slightly moved. The problem should be fixed in some future Inkscape release. Until then I recommend to use the slightly older 0.91 version.*
+
 Unofficial stickersheet for Inkscape based on the [official Material Design resources](https://www.google.com/design/spec/resources/sticker-sheets-icons.html) and amazing "[Material Design Shadows for Inkscape (SVG)](http://shiningwingpony.deviantart.com/art/Material-Design-Shadows-for-Inkscape-SVG-490418162)" by ShiningWingPony.
 
 The original bitmap that is being vectorized is in the [original.png](original.png) file. You can make it visible in Inkscape by enabling layer "Original".
@@ -42,7 +44,7 @@ The most comfortable way of browsing and inserting material icons is to use the 
 
 The whole drawing should be pixel-aligned to prevent blurry edges. You can achieve this by activating pixel grid and snapping. Text boxes are pixel-aligned by its baseline (snapping available from Inkscape 0.91).
 
-**Font sizes** are scaled down from the official values by factor **0.8**.
+To display the same **font size values** as mentioned in Material Design Guidelines you need to set `px` as default font size unit in Inkscape settings.
 
 Inserted **material icons** from [Xaviju/inkscape-open-symbols](https://github.com/Xaviju/inkscape-open-symbols) are scaled down by factor **0.5**.
 
